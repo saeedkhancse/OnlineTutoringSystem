@@ -1,0 +1,261 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+
+body {
+	
+	background: url(image/gt.jpg) repeat;
+	height:100px;
+	
+
+	
+	//background-width:100px;
+}
+
+
+
+
+
+
+
+#banner {
+	
+	width: 1020px;
+	height: 250px;
+	margin-left:10%;
+	background: url(image/11.jpg) no-repeat;
+}
+
+
+
+#templatemo_menu_panel{
+margin-top:opx;
+	width:1020px;
+	height: 51px;	
+	margin-left: 10%;
+	background: url(image/templatemo_menu_bg.jpg) repeat-x;
+	background-color:#FF6633;
+}
+
+#templatemo_menu_panel #templatemo_menu_section{
+	width: 1020px;
+	height: 49px;	
+	margin:0;
+	padding: 0 0 0 30px;
+	
+}
+
+#templatemo_menu_section ul {
+	float: left;
+	width: 930px;
+	margin: 0;
+	padding-top: 4px;
+	padding-left:20%;
+	padding-right:80%;
+	list-style: none;
+}
+
+#templatemo_menu_section ul li{
+	display: inline;
+}
+
+#templatemo_menu_section ul li a{
+	float: left;
+	width: 120px;
+	padding-top: 7px;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	color:#000000;
+	border-right: 2px solid #CCCCCC;
+	
+}
+
+#templatemo_menu_section li a:hover, #templatemo_menu_section li .current{
+	color:#66FF99;
+	height:36px;
+	
+}
+
+/* End Of Menu */
+
+
+
+#left{
+
+width:22%;
+padding-top:2px;
+margin-top:-2px;
+margin-left:10%;
+background-color:#333333;
+height:340px;
+float:left;
+display: inline;
+}
+
+
+
+
+#left #login_section {
+	clear: both;
+	margin-bottom: 6px;
+	color:#000000;
+}
+
+#login_section #login_section_top {
+	width: 270px;
+	height: 10px;
+	padding: 4px 29pt 30pt 70px;
+	margin-left:2.5%;
+	margin-right:15%;
+}
+
+ #login_section #login_section_top {
+	margin-top: 5px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-bottom: -25px;
+	
+}
+
+#login_section #login_section_title {
+display:inline;
+margin-left:5%;
+margin-right:18%;
+width: 240px;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 4px 29pt 30pt 100px;
+	height: 8px; /* padding top 10px + */
+	background: url(image/templatemo_login_section_title.jpg) top center no-repeat;
+}
+
+#login_section #login_section_middle {
+	background-color:#5f8104;
+	padding: 20px 20px;
+	margin-left:7.3%;
+	margin-right:11.6%;
+}
+
+#login_section_middle form{
+	margin: 0 0 15px 0;
+	padding: 0 0 15px 0;
+	width: 100%;
+	text-align: right;
+	border-bottom: 1px dotted #ffffff;
+	margin-left:3%;
+}
+
+
+#login_section_middle .form_row{
+	margin-bottom: 10px;
+}
+
+
+#login_section_middle label {
+	margin-right: 10px;
+}
+
+#login_section_middle input{
+	width: 120px;
+	height: 18px;
+}
+
+#login_section_middle .button{
+	width: 60px;
+	height: 25px;
+}
+
+
+
+
+
+
+
+#right{
+margin-right:21%;
+width:10%;
+margin-top:0px;
+
+
+height:440px;
+float:right;
+
+}
+
+#content{
+width:37%;
+background: url(image/bb.jpg) repeat ;
+font-family:"Times New Roman", Times, serif;
+font-size:20px;
+color:#400080;
+height:340px;
+margin-left:32%;
+margin-right:35%;
+margin-top:2px;
+
+}
+
+#box{
+display:block;
+    background-color:#FF0000;
+    width: 200px;
+	height:300px;
+    padding: 25px;
+    border: 25px blue;
+    margin: 25px;
+	
+}
+
+#footer{
+width:1019px;
+background-color:#4D5D2E;
+height:40px;
+margin-left:10%;
+}
+*{
+	margin:0;
+	padding:0;
+}
+.nav{
+	display:block;
+	width:1019px;
+	height:50px;
+	background-color:#FF6666;
+	margin:0 auto;
+	margin-left: 10%;
+}
+.menu_section ul li{
+	float:left;
+	text-decoration:none;
+	list-style:none;
+	display:block;
+	padding:15px;
+	border-right:2px solid black;
+	width:137px;
+}
+.menu_section ul li a{
+	text-decoration:none;
+	font-size:16px;
+	font-weight:600;
+	
+	color:#000000;
+	display:block;
+	margin:0 auto;
+	text-align: center;
+}
+.menu_section ul li a:hover, #templatemo_menu_section li .current{
+	color:#66FFCC;
+	height:16px;
+	
+}
+
+
+
+
+
+

@@ -1,0 +1,323 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+body {
+	
+	
+	background: url(image/gt.jpg) repeat;
+   
+}
+
+label.error{
+        color:red;
+        font-size: 12px;
+        display:block;
+    }
+
+#header{
+
+width:1020px;
+margin-left:10%;
+background-color:#FF0000;
+height:30px;
+font-size:30px;
+font-family: "Times New Roman", Times, serif;
+color:#663333;
+font-weight:bold;
+padding-bottom:5px;
+
+}
+
+
+
+
+
+
+#banner {
+	
+	width: 1020px;
+	height: 256px;
+	margin-left:10%;
+	background: url(image/11.jpg) no-repeat;
+}
+
+
+
+#templatemo_menu_panel{
+	width:1020px;
+	height: 51px;	
+	margin-left: 10%;
+	background: url(image/templatemo_menu_bg.jpg) repeat-x;
+	background-color:#CC3366;
+}
+
+#templatemo_menu_panel #templatemo_menu_section{
+	width: 1020px;
+	height: 49px;	
+	margin:0;
+	padding: 0 0 0 30px;
+	color:#FF0000;
+}
+
+#templatemo_menu_section ul {
+	float: left;
+	width: 930px;
+	margin: 0;
+	padding-top: 4px;
+	padding-left:20%;
+	padding-right:80%;
+	padding-bottom:0px;
+	list-style: none;
+}
+
+#templatemo_menu_section ul li{
+	display: inline;
+}
+
+#templatemo_menu_section ul li a{
+	float: left;
+	width: 120px;
+	padding-top: 7px;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	color:#FFFF00;
+	border-right: 2px solid #CCCCCC;
+	
+}
+
+#templatemo_menu_section li a:hover, #templatemo_menu_section li .current{
+	color:#66FF99;
+	height:36px;
+	
+}
+
+/* End Of Menu */
+
+
+
+#left{
+
+width:25%;
+margin-left:10%;
+background-color:#330033;
+height:500px;
+float:left;
+display: inline;
+}
+
+
+
+
+#left #login_section {
+	clear: both;
+	margin-bottom: 6px;
+}
+
+#login_section #login_section_top {
+	width: 270px;
+	height: 10px;
+	padding: 4px 29pt 30pt 70px;
+	margin-left:2.5%;
+	margin-right:15%;
+}
+
+ #login_section #login_section_top {
+	margin-top: 5px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-bottom: -25px;
+	
+}
+
+#login_section #login_section_title {
+display:inline;
+margin-left:9%;
+margin-right:18%;
+width: 240px;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 4px 29pt 30pt 100px;
+	height: 4px; /* padding top 10px + */
+	background: url(image/templatemo_login_section_title.jpg) top center no-repeat;
+}
+
+#login_section #login_section_middle {
+	background-color: #5f8104;
+	padding: 20px 20px;
+	margin-left:11.2%;
+	margin-right:16.7%;
+}
+
+#login_section_middle form{
+	margin: 0 0 15px 0;
+	padding: 0 0 15px 0;
+	width: 100%;
+	text-align: right;
+	border-bottom: 1px dotted #ffffff;
+}
+
+
+#login_section_middle .form_row{
+	margin-bottom: 10px;
+}
+
+
+#login_section_middle label {
+	margin-right: 10px;
+}
+
+#login_section_middle input{
+	width: 120px;
+	height: 18px;
+}
+
+#login_section_middle .button{
+	width: 60px;
+	height: 25px;
+}
+
+
+
+#content{
+width:1020px;
+background-color:#FFFFFF;
+background-position:center;
+height:350px;
+margin-left:10%;
+margin-top:0px;
+padding-top:opx;
+margin-top:opx;
+}
+
+#box {
+display:block;
+
+    background-color: lightgrey;
+    width: 188px;
+    height:200px;
+    border: 10px solid #006600;
+	margin: 20px;
+	float:left;
+	
+	
+}
+
+#box1 {
+display:block;
+
+    background-color: lightgrey;
+    width: 188px;
+    height:200px;
+    border: 10px solid #006600;
+	margin: 25px;
+	float:right;
+	
+}
+
+#box2 {
+display:block;
+
+    background-color: lightgrey;
+    width: 188px;
+    height:200px;
+    border: 10px solid #006600;
+	margin: 25px;
+	float:none;
+	
+}
+
+
+
+
+
+#box-set{
+padding-top:2%;
+padding-left:15%;
+padding-right:15%;
+
+}
+
+#text {
+margin-left:15%;
+margin-right:15%;
+padding-top:3%;
+font-size:25px;
+color:#000000;
+font-weight:300;
+
+
+font-family:Arial, Helvetica, sans-serif;
+}
+
+
+#table{
+
+background-color:#999999;
+padding-top:8px;
+    width: 45%;
+    margin-left: 25%;
+    margin-right:45%;
+	margin-top:8%;
+    border:5px solid darkgray;
+    float:left;
+	 font-family:"Times New Roman", Times, serif;
+    font-size:18px;
+	
+}
+
+#footer{
+width:1020px;
+background-color:#4D5D2E;
+height:40px;
+margin-left:10%;
+}
+
+
+
+
+
+*{
+	margin:0;
+	padding:0;
+}
+.nav{
+	display:block;
+	width:1019px;
+	height:52px;
+	background-color:#FF6666;
+	margin:0 auto;
+	margin-left: 10%;
+	margin-top:-6px;
+}
+.menu_section ul li{
+	float:left;
+	
+	
+	text-decoration:none;
+	list-style:none;
+	display:block;
+	padding:15px;
+	border-right:2px solid black;
+	width:137px;
+}
+.menu_section ul li a{
+	text-decoration:none;
+	font-size:16px;
+	font-weight:600;
+	
+	color:#000000;
+	display:block;
+	margin:0 auto;
+	text-align: center;
+}
+.menu_section ul li a:hover, #templatemo_menu_section li .current{
+	color:#66FFCC;
+	height:16px;
+	
+}
+
